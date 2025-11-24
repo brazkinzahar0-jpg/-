@@ -12,8 +12,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
   
   # Конфигурация
-BOT_TOKEN = "8458815596:AAHzIGc9CKWaxs_vIwm8nBq1yfKuzYIVsLw"
-OWNER_ID = 1492555556
+BOT_TOKEN = "токен бота"
+OWNER_ID = ид бота
 
 # Категории товаров
 CATEGORIES = ["Поды", "Жижа", "Снюс", "Луп", "Испарители"]
